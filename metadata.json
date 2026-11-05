@@ -1,0 +1,6 @@
+{
+  "name": "Shourya Garh Resort & Palace - Cinematic Scroll Experience",
+  "description": "A luxury cinematic scroll-driven website experience exploring Shourya Garh Palace & Resort in Udaipur, featuring seamless video frame scrubbing, ambient audio, and royal heritage storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
